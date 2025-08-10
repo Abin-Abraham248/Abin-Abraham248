@@ -1,5 +1,5 @@
 <!-- WELCOME SECTION -->
-<h1 align="center">Hey there 👋, I'm Abin Ab</h1>
+<h1 align="center">Hey there 👋, I'm Abin</h1>
 <h3 align="center">🚀 Electronics Engineer | 💡 Innovator | 🔧 Maker | 💻 Embedded Systems Enthusiast</h3>
 
 <p align="center">
