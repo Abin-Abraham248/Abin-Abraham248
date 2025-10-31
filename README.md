@@ -89,5 +89,5 @@
 <h3 align="center">💙 Thanks for visiting! Keep Building. Keep Innovating. 💡</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abin-abraham28/abin-abraham248/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/abin-abraham248/abin-abraham248/output/github-contribution-grid-snake-dark.svg" />
 </p>
