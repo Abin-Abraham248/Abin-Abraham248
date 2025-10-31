@@ -1,92 +1,93 @@
-<!-- WELCOME SECTION -->
-<h1 align="center">Hey there 👋, I'm Abin</h1>
-<h3 align="center">🚀 Electronics Engineer | 💡 Innovator | 🔧 Maker | 💻 Embedded Systems Enthusiast</h3>
 
+
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#00bcd4;">Abin Ab</span>
+</h1>
+
+<h3 align="center">🚀 Electronics Engineer | Embedded Systems & FPGA Enthusiast | IoT Innovator</h3>
+
+---
+
+### 👨‍💻 About Me
+
+🔹 Passionate **Electronics Engineer** exploring the boundaries between **hardware and intelligence**.  
+🔹 I design and build **IoT systems**, **FPGA-based processors**, and **smart robotics**.  
+🔹 Love blending **AI + Embedded Systems + Real-world applications**.  
+🔹 Always building something — from **smart glasses** to **energy meters**, to **autonomous robots**.
+
+💬 Ask me about:  
+`FPGA Design`, `IoT Systems`, `Verilog`, `Raspberry Pi`, `ESP32/8266`, `Sensor Integration`, `Embedded AI`.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 💡 Hardware & Embedded
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;FPGA+%7C+IoT+%7C+Robotics;Always+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,verilog,c,cpp,python" />
+</p>
+
+#### 🌐 IoT & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,mysql,git,github" />
+</p>
+
+#### 🧠 Tools & Simulation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,matlab,blender" />
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-## 🌟 About Me
-- 🎓 **2nd Year Electronics Engineering Student**
-- 🔭 Currently working on **FPGA ALU**, **Robotics**, and **IoT projects**
-- 🌱 Learning **RISC-V ISA** & **Advanced Embedded Systems**
-- 💡 Passionate about **Innovative Electronics Projects**
-- 🎯 Goal: **Build tech that makes a real-world impact**
-- ⚡ Fun fact: I debug faster with coffee ☕ + lo-fi beats 🎧
+### 🚀 Featured Projects
+
+| 🧩 Project | ⚙️ Tech Stack | 🔗 Link |
+|-------------|---------------|---------|
+| **Smart AI Glasses for the Blind** | Raspberry Pi, EasyOCR, eSpeak | [🔗 View Project](#) |
+| **Smart Energy Meter** | ESP32, Blynk IoT, ACS712, ZMPT101B | [🔗 View Project](#) |
+| **3D Mapping Robot** | LIDAR, Raspberry Pi, ROS | [🔗 View Project](#) |
+| **RISC-V Processor (In Progress)** | Verilog, FPGA | [🔗 View Project](#) |
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=c,python,verilog" height="50"/>
-  <!-- Electronics -->
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="50"/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux" height="50"/>
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=matlab,vscode" height="50"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbinAb&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbinAb&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinAb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- PROJECTS -->
-## 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Smart AI Glasses**](#) | OCR + TTS for blind users | Raspberry Pi, Python, EasyOCR |
-| [**ALU on FPGA**](#) | 32-bit Verilog ALU | FPGA, Verilog |
-| [**Smart Energy Meter**](#) | IoT-based appliance monitoring | ESP8266, IoT |
-| [**Gas Detection System**](#) | Detects hazardous gases & alerts | MQ135, Blynk |
+### ⚡ Fun Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+> “Electronics is the art of turning imagination into circuits.” ⚡  
 
 ---
 
-<!-- STATS SECTION -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbinAb&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbinAb&theme=radical" height="165" />
-</p>
+### 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinAb&theme=tokyo-night" alt="Activity Graph"/>
+  <a href="mailto:abinab.engineer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/abinab"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/AbinAb"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
 
-<!-- FUN BADGES -->
-## 🎖️ Profile Badges
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbinAb&label=Profile+Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AbinAb?label=Followers&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/stars/AbinAb?label=Stars&style=for-the-badge&color=yellow" />
-</p>
-
----
-
-<!-- CONNECT SECTION -->
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/abinab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abinab@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+<h3 align="center">💙 Thanks for visiting! Keep Building. Keep Innovating. 💡</h3>
 
 <p align="center">
-  <img src="https://github.com/AbinAb/AbinAb/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <i>“Innovating today for a smarter tomorrow.”</i>
+  <img src="https://raw.githubusercontent.com/AbinAb/AbinAb/output/github-contribution-grid-snake-dark.svg" />
 </p>
