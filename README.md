@@ -66,13 +66,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abin-abraham248&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abin-abraham248&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p>-->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abin-abraham248&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p>-->
 
 ---
 
