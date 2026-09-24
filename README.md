@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 🔹 I am  an **Electronics and Computer Engineering** student  
 🔹 I like **Embedded systems** , **Iot** , **Frontend VLSI**  and  **FPGA prototyping**     
@@ -56,7 +56,7 @@
 - **Extras**:
     
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Chatgpt](https://img.shields.io/badge/Chatgpt-FC624?style=for-the-badge&logo=CHATgpt&logoColor=black)    
+   <!-- ![Chatgpt](https://img.shields.io/badge/Chatgpt-FC624?style=for-the-badge&logo=CHATgpt&logoColor=black)  -->  
 ---
 
 
@@ -77,7 +77,7 @@
 ---
 
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="mailto:abinabraham248@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
