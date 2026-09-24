@@ -15,12 +15,12 @@
 🔹 Love blending **AI + Embedded Systems + Real-world applications**  
 
 
-💬 Ask me about:  
+ Ask me about:  
 `FPGA Design`, `IoT Systems`, `Verilog`, `Raspberry Pi`, `ESP32/8266`, `Sensor Integration`, `Embedded AI`.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - **Languages**
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
